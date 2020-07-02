@@ -1,0 +1,12 @@
+seq	label_id	label_name	seq_info	domain
+CCTTCACGGA	10	Class10	A0000000.10 Class10, complete genome, @123-132	ood
+GCGCGTTATA	14	Class14	A0000000.14 Class14, complete genome, @87-96	ood
+TTTACATACA	20	Class20	A0000000.20 Class20, complete genome, @43-52	ood
+CGCATATGTG	26	Class26	A0000000.26 Class26, complete genome, @52-61	ood
+TTTGCAGTCA	61 	Class61	A0000000.61 Class61, complete genome, @321-330	ood
+CGATATACGT	68	Class68	A0000000.68 Class68, complete genome, @46-55	ood
+GGTCCCAATC	23	Class23	A0000000.23 Class23, complete genome, @92-101	ood
+GTCCTCAATC	56	Class56	A0000000.56 Class56, complete genome, @33-42	ood
+GCAAATCTAC	57	Class57	A0000000.57 Class57, complete genome, @3-12	ood
+CGTGGCCAAT	42	Class42	A0000000.42 Class42, complete genome, @3-12	ood
+GCTTACAGGT	31	Class31	A0000000.31 Class31, complete genome, @89-98	ood

@@ -1,0 +1,12 @@
+seq	label_id	label_name	seq_info	domain
+CGGGATCTCT	6	Class6	A0000000.6 Class6, complete genome, @929-938	in
+GCTCTCAATC	7	Class7	A0000000.7 Class7, complete genome, @14-23	in
+AAATCTCCTC	3	Class3	A0000000.3 Class3, complete genome, @99-108	in
+GGGCCCCTAC	2	Class2	A0000000.2 Class2, complete genome, @611-620	in
+GTCTCAATAC	8	Class8	A0000000.8 Class8, complete genome, @223-232	in
+GCGTTATCAA	4	Class4	A0000000.4 Class4, complete genome, @90-99	in
+ACACTTCGCG	5	Class5	A0000000.5 Class5, complete genome, @45-54	in
+TTCGGGATTC	0	Class0	A0000000.0 Class0, complete genome, @124-123	in
+ATCTCGAGTT	0	Class0	A0000000.0 Class0, complete genome, @101-110	in
+GGTTCGCTTC	1	Class1	A0000000.1 Class1, complete genome, @9-18	in
+CACGCGTAAA	9	Class9	A0000000.9 Class9, complete genome, @21-30	in
